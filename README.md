@@ -1,4 +1,4 @@
-Hi 👋, I'm Jithin
+<h1 align="center">Hi 👋, I'm Jithin</h1>
 
 
 ## 🌐 Socials:
