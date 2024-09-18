@@ -25,7 +25,7 @@
             <td><a href="https://github.com/jiithin/recipe-frontend-react">Recipe Finder</a> - A recipe finder app using Reactjs</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/jiithin/ecart-react">ECart</a> - E-Commerce app using React</td>
+            <td><a href="https://github.com/jiithin/ecart-react">ECart</a> - E-Commerce app using ReactJS</td>
             <td><a href="https://github.com/jiithin/aiPlatform">ECom</a> - E-Commerce app using Angular</td>
         </tr>
     </table>
