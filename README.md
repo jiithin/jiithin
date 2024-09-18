@@ -1,4 +1,4 @@
-<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=C97BDD&center=true&repeat=false&width=435&lines=Hi%2C+I'm+JITHIN" alt="hehehe"></h2>
+<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=2000&pause=1000&color=C97BDD&center=true&repeat=false&width=435&lines=Hi%2C+I'm+JITHIN" alt="hehehe"></h2>
 
 
 
