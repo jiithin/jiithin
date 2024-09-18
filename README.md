@@ -14,7 +14,7 @@
         </a>
     </p>
     
- <h4 align="left">My Open Source Projects</h4>
+ <h3 align="left">👨‍💻 Open Source Projects</h3>
  <table align="center">
         <tr>
             <td><a href="https://github.com/jiithin/Inventory-Frontend">Inventory App</a> - An inventory management app</td>
@@ -36,7 +36,7 @@
 <a href="https://linkedin.com/in/jiithin-gangadharan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jiithin-gangadharan" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">💻 expertise :</h3>
+<h3 align="left">💻 Expertise :</h3>
 <div align="left">
 
 
