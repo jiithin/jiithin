@@ -3,7 +3,7 @@
 
  <p align="center">
         <a href="https://portfolio-jithin.vercel.app">
-            <img src="./8.webp" width="200"/>
+            <img src="./6.gif" width="200"/>
         </a>
     </p>
  <h4 align="left">My Open Source Projects</h4>
