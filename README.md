@@ -30,10 +30,12 @@
         </tr>
     </table>
     
-<h3 align="left">Connect with me :</h3>
+    <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://dev.to/jiithin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jiithin" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jiithin-gangadharan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jiithin-gangadharan" height="30" width="40" /></a>
 </p>
+
 <h3 align="left">💻 expertise :</h3>
 <div align="left">
 
