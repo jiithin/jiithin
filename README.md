@@ -1,11 +1,11 @@
-<h2 align="center">Hi, I'm <a href="https://portfolio-jithin.vercel.app">Jithin</a></h2>
+<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=C97BDD&center=true&repeat=false&width=435&lines=Hi%2C+I'm+JITHIN" alt="hehehe"></h2>
 
 
 
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=montserrat&weight=600&pause=1000&color=C97BDD&center=true&width=435&lines=Javascript+Developer;Typescript+ReactJS+NodeJS;Express+MongoDB+NextJS" alt="hehehe">
+  <img src="https://readme-typing-svg.demolab.com?font=montserrat&weight=600&pause=1000&color=C97BDD&center=true&width=435&lines=Javascript/Typescript+Developer;ReactJS+NodeJS+Angular;Express+MongoDB+NextJS" alt="hehehe">
 </p>
 
  <p align="center">
