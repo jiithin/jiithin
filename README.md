@@ -35,7 +35,7 @@
 <a href="https://linkedin.com/in/jiithin-gangadharan" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="jiithin-gangadharan" height="30" width="120" /></a>
 </p>
 
-<h3 align="left">💻 Expertise :</h3>
+<h3 align="left">💻 My Expertise :</h3>
 <div align="left">
 
 
