@@ -1,5 +1,27 @@
-<h2 align="center">Hi, I'm Jithin</h2>
+<h2 align="center">Hi, I'm <a href="https://portfolio-jithin.vercel.app">Jithin</a></h2>
 
+
+ <p align="center">
+        <a href="https://portfolio-jithin.vercel.app">
+            <img src="2.gif" width="50"/>
+        </a>
+    </p>
+ <h4 align="left">My Open Source Projects</h4>
+ <table align="center">
+        <tr>
+            <td><a href="https://github.com/jiithin/Inventory-Frontend">Inventory App</a> - An inventory management app</td>
+            <td><a href="https://github.com/jiithin/media-player">Media Player</a> - Cross platfrom video stream and Playlist Manager.</td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/jiithin/pf-frontend">Project Fair</a> - Platform to showcase your web projects</td>
+            <td><a href="https://github.com/jiithin/recipe-frontend-react">Recipe Finder</a> - A recipe finder app using Reactjs</td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/jiithin/ecart-react">ECart</a> - E-Commerce app using React</td>
+            <td><a href="https://github.com/jiithin/aiPlatform">ECom</a> - E-Commerce app using Angular</td>
+        </tr>
+    </table>
+    
 <h3 align="center">Connect with me :</h3>
 <p align="center">
 <a href="https://linkedin.com/in/jiithin-gangadharan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jiithin-gangadharan" height="30" width="40" /></a>
