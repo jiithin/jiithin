@@ -34,11 +34,12 @@
 <p align="left">
 <a href="https://linkedin.com/in/jiithin-gangadharan" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="jiithin-gangadharan" height="30" width="120" /></a>
 </p>
-  <summary><b>⛎ My so</b></summary>
+
+  <h3>⚛️ Activity</h3>
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="github-user-contribution.svg" />
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
