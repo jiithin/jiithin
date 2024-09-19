@@ -26,7 +26,7 @@
         </tr>
         <tr>
             <td><a href="https://github.com/jiithin/ecart-react">ECart</a> - E-Commerce app using ReactJS</td>
-            <td><a href="https://github.com/jiithin/aiPlatform">ECom</a> - E-Commerce app using Angular</td>
+            <td><a href="https://github.com/jiithin/Ecart-angular-fontend">ECom</a> - E-Commerce app using Angular</td>
         </tr>
     </table>
     
