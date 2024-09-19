@@ -34,7 +34,17 @@
 <p align="left">
 <a href="https://linkedin.com/in/jiithin-gangadharan" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="jiithin-gangadharan" height="30" width="120" /></a>
 </p>
+<details>
+  <summary><b>⛎ My Pet</b></summary>
 
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jiithin/jiithin/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jiithin/jiithin/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jiithin/jiithin/output/github-contribution-grid-snake.svg">
+</picture>
+</div>
+</details>
 <h3 align="left">💻 My Expertise :</h3>
 <div align="left">
 
