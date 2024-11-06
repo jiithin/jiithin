@@ -18,7 +18,7 @@
  <table align="center">
         <tr>
             <td><a href="https://github.com/jiithin/Inventory-Frontend">Inventory App</a> - An inventory management app</td>
-            <td><a href="https://github.com/jiithin/media-player">Media Player</a> - Cross platfrom video stream and Playlist Manager.</td>
+            <td><a href="https://github.com/jiithin/BlogApp">Divulge Blog App</a> - This blog app provides a seamless writing and social experience.</td>
         </tr>
         <tr>
             <td><a href="https://github.com/jiithin/pf-frontend">Project Fair</a> - Platform to showcase your web projects</td>
